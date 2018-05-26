@@ -61,7 +61,7 @@ igl::vertex_triangle_adjacency(V.rows(), F,VF,VFi);
 ###### Result
 <div style="text-align:center">
 <p align="center">
-  <img style="height : 600px;" src="/media/compressed/capture1_1.png">
+  <img style="height : 600px;" src="/results/capture1_1.png">
 </p>
 </div>
 
@@ -110,7 +110,7 @@ igl::adjacency_list(F,VV);
 ###### Result
 <div style="text-align:center">
 <p align="center">
-  <img style="height : 600px;" src="/media/compressed/capture2_1.png">
+  <img style="height : 600px;" src="/results/capture2_1.png">
 </p>
 </div>
 
@@ -188,18 +188,18 @@ for(int i =0 ; i<cid.size() ; i++){
 ###### Result
 <div style="text-align:center">
 <p align="center">
-  <img style="height : 300px;" src="/media/compressed/cube_1.png">
-  <img style="height : 300px;" src="/media/compressed/coffe_1.png">
-  <img style="height : 300px;" src="/media/compressed/honda_1.png">
+  <img style="height : 300px;" src="/results/cube_1.png">
+  <img style="height : 300px;" src="/results/coffe_1.png">
+  <img style="height : 300px;" src="/results/honda_1.png">
 </p>
 </div>
 
 
 <div style="text-align:center">
 <p align="center">
-  <img style="width : 300px;" src="/media/compressed/cube_2.png">
-  <img style="width : 300px;" src="/media/compressed/coffe_2.png">
-  <img style="width : 300px;" src="/media/compressed/honda_2.png"></p>
+  <img style="width : 300px;" src="/results/cube_2.png">
+  <img style="width : 300px;" src="/results/coffe_2.png">
+  <img style="width : 300px;" src="/results/honda_2.png"></p>
 </div>
 
 
@@ -213,7 +213,7 @@ We can implement a subdivision scheme to iteratively create a denser grid of tri
 [-> Description](https://www.graphics.rwth-aachen.de/media/papers/sqrt31.pdf)
 
 <p align="center">
-<img style="height : 400px;" src="/media/compressed/subdivision.png"><br/>
+<img style="height : 400px;" src="/results/subdivision.png"><br/>
 Extracted from the cited paper - RWTH Aachen
 </p>
 
@@ -297,9 +297,9 @@ We create new vertices, we create new faces, we put these new data in the final 
 ###### Result
 <div style="text-align:center">
 <p align="center">
-  <img style="height : 500px;" src="/media/compressed/CubeSpeed.gif">
-  <img style="height : 500px;" src="/media/compressed/CoffeSpeed.gif">
-  <img style="height : 500px;" src="/media/compressed/hondaSpeed.gif">
+  <img style="height : 500px;" src="/results/CubeSpeed.gif">
+  <img style="height : 500px;" src="/results/CoffeSpeed.gif">
+  <img style="height : 500px;" src="/results/hondaSpeed.gif">
 </p>
 </div>
 
@@ -404,19 +404,19 @@ We then create the new faces generated due to the extrusion, that we link in a c
 ###### Result
 <div style="text-align:center">
 <p align="center">
-  <img style="width : 600px;" src="/media/compressed/EasyExtrusionCoffe.gif">
-  <img style="width : 600px;" src="/media/compressed/EasyExtrusionCube.gif">
+  <img style="width : 600px;" src="/results/EasyExtrusionCoffe.gif">
+  <img style="width : 600px;" src="/results/EasyExtrusionCube.gif">
 </p>
 </div>
 <div style="text-align:center">
 <p align="center">
-  <img style="width : 600px;" src="/media/compressed/HardExtrusionCoffee.gif">
-  <img style="width : 600px;" src="/media/compressed/HardExtrusionCube.gif">
+  <img style="width : 600px;" src="/results/HardExtrusionCoffee.gif">
+  <img style="width : 600px;" src="/results/HardExtrusionCube.gif">
 </p>
 </div>
 <div style="text-align:center">
 <p align="center">
-  <img style="width : 600px;" src="/media/compressed/HondaExtrusion.gif">
+  <img style="width : 600px;" src="/results/HondaExtrusion.gif">
 </p>
 </div>
 
