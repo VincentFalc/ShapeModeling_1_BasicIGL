@@ -1,1 +1,0 @@
-/bin/cc -O3 -DNDEBUG  -rdynamic CMakeFiles/bin2c.dir/resources/bin2c.c.o  -o bin2c 
